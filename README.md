@@ -1,1 +1,41 @@
 # google.com
+
+
+<div align="center">
+    <img src="https://www.google.com/logos/google.jpg">
+    <div style="background-color: rgb(199, 197, 197); "
+    <p>Search the web using Google!</p>
+    <form><input type="text"></form>
+    <button> Search Google! </button>
+    <button> I'm feeling lucky! </button>
+</div>
+
+<div style="width:32%; height: 170px; float:left; text-align: center; background-color: aqua; border: solid 3px white;">
+    <ul style="list-style:none">
+        <a>Special Searches</a>
+        <li><a href="#"><p>Stanford Search</p></a></li>
+      <li><a href="#"><p>Linux Search</p></a></li>
+    </ul>
+</div>
+
+<div style="width:32%; height: 170px; float:left; text-align: center; background-color: rgb(0, 172, 172);border: solid 3px white;">
+    <ul style="list-style: none;">
+        <li><a href="#"><p>Help!</p></a></li>
+        <li><a href="#"><p>About Google!</p></a></li>
+        <li><a href="#"><p>Company Info</p></a></li>
+        <li><a href="#"><p>Google! Logos</p></a></li>
+    </ul>
+</div>
+
+<div style="width: 34%; height: 170px; float:left; text-align: center; background-color: rgb(0, 84, 84);border: solid 3px white;">
+    <ul style="list-style:none;">
+    <a>Get Google!</a><br>
+    <a>updates monthly:</a>
+    <form><input type="text"></form>
+    <button> Subscribe </button> <li><a href="#"><p>Archive</p></a></li> 
+    </ul>
+</div>
+
+<div style="text-align: center;">
+  <a>Copyright ©1998 Google Inc.</a>
+</div>
